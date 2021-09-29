@@ -1,9 +1,11 @@
 ---
-title: "Homework 2"
+title: "Week 3: Homework 2"
 author: "Erika Park"
 date: "9/28/2021"
 output: github_document
 ---
+
+link to github: https://github.com/ErikaPark/433_hw2/blob/main/hw2_ErikaPark.md
 
 ```{r, warning = F, message=F}
 library(dplyr)
