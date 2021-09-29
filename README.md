@@ -3,9 +3,6 @@ Week 3: Homework 2
 Erika Park
 9/28/2021
 
-link to github:
-<https://github.com/ErikaPark/433_hw2/blob/main/hw2_ErikaPark.md>
-
 ``` r
 library(dplyr)
 library(nycflights13)
