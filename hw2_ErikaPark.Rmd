@@ -2,7 +2,7 @@
 title: "Homework 2"
 author: "Erika Park"
 date: "9/28/2021"
-output: html_document 
+output: github_document
 ---
 
 ```{r, warning = F, message=F}
