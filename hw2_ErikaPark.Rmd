@@ -1,8 +1,8 @@
 ---
-title: "HW_2"
+title: "Homework 2"
 author: "Erika Park"
 date: "9/28/2021"
-output: github_document
+output: html_document 
 ---
 
 ```{r, warning = F, message=F}
